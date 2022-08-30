@@ -9,7 +9,7 @@ env:
   SOLUTION_NAME: ReAction
   INTERNAL_NAME: ReAction
   RELEASE_DIR: ./bin/Release/ReAction
-  PERSONAL_PLUGIN_REPO: UnknownX7/DalamudPluginRepo
+  PERSONAL_PLUGIN_REPO: jundong321/MyDalamudPlugins
   BRANCH: master
 
 jobs:

@@ -1,6 +1,7 @@
 name: Upload to Plugin Repository
 
 on:
+  workflow_dispatch:
   push:
     tags:
       - '*'
